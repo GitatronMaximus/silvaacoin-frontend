@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://new.express.adobe.com/
+HostUrl=https://cpf-temp-repo-ue1-prod.s3.amazonaws.com/96571eac-fe95-428a-99d0-765fed31d006?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250102T175317Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAU3E5TYZ22HKHGRMU%2F20250102%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c5a7555d515ec39f9705e46eaec7ca17e3087e8126ab07c15a1d05301464fc8d
